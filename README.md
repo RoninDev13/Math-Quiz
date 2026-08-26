@@ -34,3 +34,15 @@ Once all questions are answered, the console displays a complete scorecard detai
 ### Step 6: Play Again or Exit
 * Enter `1` to **Restart** a fresh quiz session.
 * Enter `2` to **Exit** the program.
+
+---
+
+# 📺 Video Showcase & Code Walkthrough
+
+Watch the full project showcase and code explanation on YouTube or view the preview below:
+
+[![▶️ Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/jna4qXwQxHg)
+
+<a href="https://youtu.be/jna4qXwQxHg">
+  <img src="https://img.youtube.com/vi/jna4qXwQxHg/maxresdefault.jpg" alt="Math Quiz Game C++ Showcase" width="100%">
+</a>
